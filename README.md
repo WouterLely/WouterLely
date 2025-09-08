@@ -25,7 +25,7 @@ implementing management frameworks to deliver measurable business value.
 - SQL Sever ⚡
 - Data Lakes 🌊
 
-🗣 Story about me
+## 🗣 Story about me
 🪄 I’m a data magician with 10+ years of conjuring strategies into reality for 50+ organizations across the globe (€10M → €3B in scale). My spellbook covers data strategy, execution, governance, cost alchemy, revenue summoning, and guiding squads of 50–300+ adventurers across data, analytics, and governance realms.
 
 ⚡ I turn big-picture visions into working data products and frameworks that actually get adopted, driving business value like Swiss clockwork. My craft thrives on co-creation, shared ownership, and making sure strategy doesn’t just sit on a slide deck, it lives, breathes, and delivers.
