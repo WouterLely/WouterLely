@@ -1,10 +1,10 @@
-## Welcome to my GitHub 👋
+# Welcome to my GitHub 👋
 
 I'm a magician  that translates strategy into actionable data solutions, accelerating adoption of digital products, and
 implementing management frameworks to deliver measurable business value. 
 
 
-# Blog 📑
+## Blog 📑
 - Author:  “Eenvoud: Waaruit bestaat een digital transformatie strategie”  “in-concept”.
 - Author:  “Eenvoud: De bijdrage van datakwaliteit aan (strategische) doelstellingen”.
 - Author:   “Eenvoud: In eenvoud van strategie naar datastrategie”.
