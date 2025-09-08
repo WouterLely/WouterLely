@@ -1,9 +1,29 @@
 ## Welcome to my GitHub 👋
 
-I thrive on translating strategy into actionable data solutions, accelerating adoption of data products, and
-implementing management frameworks that drive measurable business value. My focus is always on co- 
-creation, ownership, impact, and ensuring that objectives are achieved within scope while aligning with
-organizational strategy and stakeholder interests.
+I'm a magician  that translates strategy into actionable data solutions, accelerating adoption of data products, and
+implementing management frameworks to deliver measurable business value. 
+
+
+# Blog 📑
+Author:  “Eenvoud: Waaruit bestaat een digital transformatie strategie”  “in-concept”. 
+Author:  “Eenvoud: De bijdrage van datakwaliteit aan (strategische) doelstellingen”
+Author:   “Eenvoud: In eenvoud van strategie naar datastrategie”   
+Author:   “Eenvoud: Data maturity groei in de praktijk”     
+Co-Author:  “Waarom Microsoft Fabric een geweldige oplossing is, juist voor …”  
+
+# Tech stack 🛠️
+
+💻 Programming Languages
+- Python 🐍
+- SQL 📘
+- Tooling specific 🛠️
+
+💾 Databases
+SQL 📊
+Athena 🏛️
+S3 ❄️
+SQL Sever ⚡
+Data Lakes 🌊
 
 
 <!--
