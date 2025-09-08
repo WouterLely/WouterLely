@@ -1,8 +1,7 @@
 ## Welcome to my GitHub 👋
 
-I'm a magician  that translates strategy into actionable data solutions, accelerating adoption of data products, and
+I'm a magician  that translates strategy into actionable data solutions, accelerating adoption of digital products, and
 implementing management frameworks to deliver measurable business value. 
-
 
 
 # Blog 📑
