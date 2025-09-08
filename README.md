@@ -5,11 +5,11 @@ implementing management frameworks to deliver measurable business value.
 
 
 # Blog 📑
-Author:  “Eenvoud: Waaruit bestaat een digital transformatie strategie”  “in-concept”. 
-Author:  “Eenvoud: De bijdrage van datakwaliteit aan (strategische) doelstellingen”
-Author:   “Eenvoud: In eenvoud van strategie naar datastrategie”   
-Author:   “Eenvoud: Data maturity groei in de praktijk”     
-Co-Author:  “Waarom Microsoft Fabric een geweldige oplossing is, juist voor …”  
+- Author:  “Eenvoud: Waaruit bestaat een digital transformatie strategie”  “in-concept”.
+- Author:  “Eenvoud: De bijdrage van datakwaliteit aan (strategische) doelstellingen”.
+- Author:   “Eenvoud: In eenvoud van strategie naar datastrategie”.
+- Author:   “Eenvoud: Data maturity groei in de praktijk”.
+- Co-Author:  “Waarom Microsoft Fabric een geweldige oplossing is, juist voor …”  
 
 # Tech stack 🛠️
 
