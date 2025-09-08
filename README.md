@@ -4,6 +4,7 @@ I'm a magician  that translates strategy into actionable data solutions, acceler
 implementing management frameworks to deliver measurable business value. 
 
 
+
 # Blog 📑
 - Author:  “Eenvoud: Waaruit bestaat een digital transformatie strategie”  “in-concept”.
 - Author:  “Eenvoud: De bijdrage van datakwaliteit aan (strategische) doelstellingen”.
@@ -19,6 +20,12 @@ implementing management frameworks to deliver measurable business value.
 ⚡ I turn big-picture visions into working data products and frameworks that actually get adopted, driving business value like Swiss clockwork. My craft thrives on co-creation, shared ownership, and making sure strategy doesn’t just sit on a slide deck, it lives, breathes, and delivers.
 
 🔥 By blending organizational insight with technical sorcery, I help companies move faster, smarter, and leaner. Think: efficiency boosts, cost vanishings, revenue growth, and transformations that stick. Always with an eye on long-term sustainability and impact.
+
+## Complexity 🔜 Simplicity
+Complexity isn’t the enemy — unmanaged complexity is. In every transformation, things could be braked down simple, then evolve into layers of processes, tools, and dependencies. Left unchecked, it becomes a maze.
+That’s why my compass always points to simplicity. Every day, week, month, quarter, every year, every evolution of a company, I search for the essence: what adds value, what can be stripped away, and what needs to grow.
+Simplicity isn’t about cutting corners — it’s about _**What could and should we do?**_. 
+Like magic, simplicity turns complexity from a burden into an advantage.
 
 # Tech stack 🛠️
 
