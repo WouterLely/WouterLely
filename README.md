@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome to my GitHub 👋
+
+I thrive on translating strategy into actionable data solutions, accelerating adoption of data products, and
+implementing management frameworks that drive measurable business value. My focus is always on co- 
+creation, ownership, impact, and ensuring that objectives are achieved within scope while aligning with
+organizational strategy and stakeholder interests.
+
 
 <!--
 **WouterLely/WouterLely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
