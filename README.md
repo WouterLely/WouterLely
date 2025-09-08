@@ -26,7 +26,7 @@ That’s why my compass always points to simplicity. Every day, week, month, qua
 Simplicity isn’t about cutting corners — it’s about _**What could and should we do?**_. 
 Like magic, simplicity turns complexity from a burden into an advantage.
 
-# Tech stack 🛠️
+## Tech stack 🛠️
 
 💻 Programming Languages
 - Python 🐍
