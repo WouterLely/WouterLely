@@ -14,7 +14,6 @@ Like magic, simplicity turns complexity from a burden into an advantage.
 - Author:  “Eenvoud: De bijdrage van datakwaliteit aan (strategische) doelstellingen”.
 - Author:   “Eenvoud: In eenvoud van strategie naar datastrategie”.
 - Author:   “Eenvoud: Data maturity groei in de praktijk”.
-- Co-Author:  “Waarom Microsoft Fabric een geweldige oplossing is, juist voor …”  
 
 ## 🗣 Story about me
 🪄 I’m a data magician with 10+ years of conjuring strategies into reality for 50+ organizations across the globe (€10M → €3B in scale). My spellbook covers data strategy, execution, governance, cost alchemy, revenue summoning, and guiding squads of 50–300+ adventurers across data, analytics, and governance realms.
