@@ -6,7 +6,8 @@ implementing management frameworks to deliver measurable business value.
 ## Complexity 🔜 Simplicity
 Complexity isn’t the enemy — unmanaged complexity is. In every transformation, things could be braked down to simplicity when applying business objectives and clear strategy first. Left unchecked, it becomes a maze.
 That’s why my compass always points to simplicity. Every day, week, month, quarter, every year, every evolution of a company, I search for the essence: what adds value, what can be stripped away, and what needs to grow.
-Simplicity isn’t about cutting corners — it’s about _**What could and should we do?**_. 
+Simplicity isn’t about cutting corners — it’s about _**What could or should we do?**_ 
+
 Like magic, simplicity turns complexity from a burden into an advantage.
 
 ## Blog 📑
