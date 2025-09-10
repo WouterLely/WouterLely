@@ -26,17 +26,25 @@ Like magic, simplicity turns complexity from a burden into an advantage.
 ## Tech stack 🛠️
 
 💻 Programming Languages
-- Python 🐍
-- SQL 📘
-- Tooling specific 🛠️
+- 🐍 Python
+- 🗄️ SQL
+- ⚙️ Tooling specific
 
-💾 Databases & storage
-- SQL 📊
-- Athena 🏛️
-- S3 ❄️
-- SQL Sever ⚡
-- Data Lakes 🌊
-  
+💾 Databases & Storage
+- 🌊 Data Lakes
+- 🏛️ Athena
+- ☁️ S3
+- 🖥️ SQL Server
+
+📈 Visualization Tools
+- 📈 Matplotlib
+- 📊 Seaborn
+- 🔗 Plotly
+- ⚡ QuickSight
+- 🟦 Power BI
+- 🎯 Qlik
+
+
 <!--
 **WouterLely/WouterLely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
