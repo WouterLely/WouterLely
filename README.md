@@ -1,5 +1,4 @@
 # Welcome to my GitHub 👋
-
 I'm a magician that translates strategy into actionable data solutions, accelerating adoption of digital products, and
 implementing management frameworks to deliver measurable business value.
 
@@ -50,16 +49,5 @@ Like magic, simplicity turns complexity from a burden into an advantage.
 - 🎯 Qlik
 
 
-<!--
-**WouterLely/WouterLely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun fact
+🥋 Brazilian jiu-jitsu enthusiast — always rolling, learning from every sparring partner, and embracing the growth and transformation of each challenge. Growth happens on and off the mat!
