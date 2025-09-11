@@ -23,6 +23,11 @@ Like magic, simplicity turns complexity from a burden into an advantage.
 
 🔥 By blending organizational insight with technical sorcery, I help companies move faster, smarter, and leaner. Think: efficiency boosts, cost vanishings, revenue growth, and transformations that stick. Always with an eye on long-term sustainability and impact.
 
+## 🔭 I’m currently working on AI/ML
+- 🪄 Studying LLMs to transform strategy into unprecedented, tangible results.
+- 🔮 Implementing ML solutions that were once invisible — making the unseen seen to enable simple, strategic actions.
+- ⚡ Experimenting with predictive alchemy to reveal hidden patterns and insights, turning complexity into clarity.
+
 ## Tech stack 🛠️
 
 💻 Programming Languages
