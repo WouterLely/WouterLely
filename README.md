@@ -1,7 +1,7 @@
 # Welcome to my GitHub 👋
 
-I'm a magician  that translates strategy into actionable data solutions, accelerating adoption of digital products, and
-implementing management frameworks to deliver measurable business value. 
+I'm a magician that translates strategy into actionable data solutions, accelerating adoption of digital products, and
+implementing management frameworks to deliver measurable business value.
 
 ## Complexity 🔜 Simplicity
 Complexity isn’t the enemy — unmanaged complexity is. In every transformation, things could be braked down to simplicity when applying business objectives and clear strategy first. Left unchecked, it becomes a maze.
