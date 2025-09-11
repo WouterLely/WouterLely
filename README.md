@@ -49,5 +49,5 @@ Like magic, simplicity turns complexity from a burden into an advantage.
 - 🎯 Qlik
 
 
-## ⚡ Fun fact
+## ⚡ Personal Fun fact
 🥋 Brazilian jiu-jitsu enthusiast — always rolling, learning from every sparring partner, and embracing the growth and transformation of each challenge. Growth happens on and off the mat!
