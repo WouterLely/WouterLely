@@ -22,16 +22,16 @@ That’s why my compass always points to simplicity. Every day, week, month, qua
 - Author:   “Eenvoud: Data maturity groei in de praktijk”.
 
 ## 🗣 Story about me
-🪄 I’m a data magician with 10+ years of conjuring strategies into reality for 50+ organizations across the globe (€10M → €3B in scale). My spellbook covers data strategy, execution, governance, cost alchemy, revenue summoning, and guiding squads of 50–300+ adventurers across data, analytics, and governance realms.
+🪄 I’m a magician with 10+ years of conjuring strategies into reality for 50+ organizations across the globe (€10M → €3B in scale). My spellbook covers data strategy, execution, governance, cost alchemy, revenue summoning, and guiding squads of 50–300+ adventurers across data, analytics, and governance realms.
 
 ⚡ I turn big-picture visions into working data products and frameworks that actually get adopted, driving business value like Swiss clockwork. My craft thrives on co-creation, shared ownership, and making sure strategy doesn’t just sit on a slide deck, it lives, breathes, and delivers.
 
-🔥 By blending organizational insight with technical sorcery, I help companies move faster, smarter, and leaner. Think: efficiency boosts, cost vanishings, revenue growth, and transformations that stick. Always with an eye on long-term sustainability and impact.
+🔥 By blending organizational insight with technical sorcery, I help companies move faster, smarter, leaner and most important, to grow. Think: efficiency boosts, cost vanishings, revenue growth, and transformations that stick. Always with an eye on long-term sustainability and impact.
 
-## 🔭 I’m currently working on AI/ML
+## 🔭 I’m currently working on AI
 - 🪄 Studying LLMs to transform strategy into unprecedented, tangible results.
 - 🔮 Implementing ML solutions that were once invisible — making the unseen seen to enable simple, strategic actions.
-- ⚡ Experimenting with predictive alchemy to reveal hidden patterns and insights, turning complexity into clarity.
+- ⚡ Predictive alchemy to reveal hidden patterns and insights, turning complexity into clarity.
 
 ## Tech stack 🛠️
 
